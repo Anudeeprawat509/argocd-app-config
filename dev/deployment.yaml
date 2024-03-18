@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: kuldeeprawat509/python-flask-project:latest
+        image: kuldeeprawat509/python-flask-project:latest1
         ports:
         - containerPort: 8080
 
